@@ -3,9 +3,9 @@
 Una herramienta de línea de comandos y un módulo para la API de Google Street View Image.
 
 
-## Usage
+## Uso
 
-For help in the console:
+Para info en la consola:
 
 ```
 google_streetview -h
